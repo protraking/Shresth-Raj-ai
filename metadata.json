@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Swift study helper",
+  "description": "funny but enthusisased ai helper\n",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
